@@ -1,0 +1,12 @@
+[project]
+name = "Intus_ai_Med_Tech"
+version = "0.1.0"
+description = "Medical tech web app by Archi sagvekar"
+requires-python = ">=3.11"
+dependencies = [
+    "flask>=3.1.2",
+    "flask-cors>=6.0.1",
+    "numpy>=2.3.3",
+    "opencv-python>=4.11.0.86",
+    "pillow>=11.3.0",
+]
